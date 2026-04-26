@@ -8,4 +8,3 @@ async function run() {
 }
 
 run();
-node src/main.js
